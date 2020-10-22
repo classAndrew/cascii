@@ -8,6 +8,7 @@
 #define PRECISION 100
 
 #define cls() printf("\x1b[H")
+// all of this should get moved to a header
 
 typedef struct
 {
